@@ -12,6 +12,14 @@
 
 有任何問題或建議，請至 Issues 版面中提出，有空的話我會再進行評估與修正，謝謝。
 
+### 使用方式
+
+請先至 Steam遊戲目錄\SteamApps\common\Frostpunk 中，
+
+備份 localizations.dat 與 localizations.idx 這兩個檔案，
+
+並將本模組中以上二檔覆蓋至遊戲根目錄即可。
+
 ### Changelog
 * 1.3.3.cht.190208.2 翻譯修正，初始版編譯資源檔釋出
 * 1.3.3.cht.190208.1 初始版正體中文翻譯
