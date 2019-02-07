@@ -1,4 +1,4 @@
-#Frostpunk-TraditionalChinese-Translate
+﻿#Frostpunk-TraditionalChinese-Translate
 
 <a href="https://store.steampowered.com/app/323190/Frostpunk/">Frostpunk</a> 【冰封龐克】 中文正體模組
 
@@ -18,6 +18,7 @@
 有任何問題或建議，請在 Issues 中提出，
 
 有空的話我會再進行評估與修正，謝謝。
+
 
 
 ##Changelog
