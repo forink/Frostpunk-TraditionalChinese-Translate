@@ -1,6 +1,6 @@
 #Frostpunk-TraditionalChinese-Translate
 
-<a href="https://store.steampowered.com/app/323190/Frostpunk/" target="_blank">Frostpunk</a> 【冰封龐克】 中文正體模組
+<a href="https://store.steampowered.com/app/323190/Frostpunk/">Frostpunk</a> 【冰封龐克】 中文正體模組
 
 
 
