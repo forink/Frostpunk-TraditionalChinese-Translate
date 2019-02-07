@@ -371,7 +371,7 @@ Build the Care House to keep the gravely ill and the cripples alive at a reasona
 此建築已被毀壞。
 這棟建築已被停用。
 當前此建築無法啟動。
-此建築在建中。
+此建築建造中。
 建築已在升級中。
 此建築正在拆除中。
 [TO BE REMOVED] [NOT USED #75]
@@ -462,7 +462,7 @@ Build the Care House to keep the gravely ill and the cripples alive at a reasona
 不滿情緒太高，無法推行此項法律。
 此法律因另一項法律而受阻。
 {SociotechName}未解鎖。
-街道在建中。
+街道建造中。
 [TO BE REMOVED] [NOT USED #16]
 街道與能量塔不相連。
 與街道不相鄰。
