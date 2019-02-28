@@ -14,13 +14,19 @@
 
 ### 使用方式
 
-請先至 Steam遊戲目錄\SteamApps\common\Frostpunk 中，
+1.請先至 Steam遊戲目錄\SteamApps\common\Frostpunk 中， 備份遊戲目錄 localizations.dat 與 localizations.idx 這兩個檔案。
 
-備份 localizations.dat 與 localizations.idx 這兩個檔案，
+2.將本模組中對應檔案覆蓋至遊戲目錄，一共有2個檔案，勿遺漏。
 
-並將本模組中以上二檔覆蓋至遊戲根目錄即可。
+localizations.dat
+localizations.idx
+
+3.啟動遊戲
+
+Note: (source為文本原始檔，無須使用)
 
 ### Changelog
+* 1.3.3.cht.190301 翻譯修正
 * 1.3.3.cht.190208.3 翻譯修正
 * 1.3.3.cht.190208.2 翻譯修正，初始版編譯資源檔釋出
 * 1.3.3.cht.190208.1 初始版正體中文翻譯
