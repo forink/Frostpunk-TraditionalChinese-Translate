@@ -1,10 +1,10 @@
 ## Frostpunk-TraditionalChinese-Translate
  [Frostpunk](https://store.steampowered.com/app/323190/Frostpunk/) 【冰封龐克】 中文正體模組
 
-以 **Frostpunk 1.3.3 steam 原版之簡體中文語系** 為基礎，
+以 **Frostpunk steam 原版之簡體中文語系** 為基礎，
 進行正體中文化與差異口語修正。
 
-目前適用版本為 Frostpunk 1.3.3，其他平台請自行測試，非正版用戶請勿下載。
+目前適用版本為 Frostpunk 1.5.0，其他平台請自行測試，非正版用戶請勿下載。
 
 本模組不保證無任何臭蟲或問題，若不幸造成您的損失，本模組開發者概不負責。
 
@@ -26,6 +26,7 @@ localizations.idx
 Note: (source為文本原始檔，無須使用)
 
 ### Changelog
+* 1.5.0.cht.200125 最後的秋天DLC翻譯更新
 * 1.3.3.cht.190301 翻譯修正
 * 1.3.3.cht.190208.3 翻譯修正
 * 1.3.3.cht.190208.2 翻譯修正，初始版編譯資源檔釋出
